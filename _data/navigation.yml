@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "爱豆"
     url: /publications/
 
-  - title: "Talks"
+  - title: "音乐"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "读书"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "自恋相册"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "出游经历"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "个人简历"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  # url: /markdown/

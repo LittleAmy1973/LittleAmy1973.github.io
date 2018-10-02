@@ -1,3 +1,4 @@
+<!-- 
 ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
@@ -50,3 +51,43 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+--> 
+
+---
+你的笑像西瓜最中间那一勺的口感
+
+点亮了一整个夏天 星空也为你斑斓
+
+我不会深情款款上演什么套路桥段
+
+我的爱纯粹简单
+
+我乐意站在你身后 把你揽在胸口
+
+低头看你素净的脸颊粉红
+
+我乐意把着你的手 心猿意马弹奏
+
+每颗音符里都有幸福闪动
+
+我乐意守在你左右 为你挡雨遮风
+今后的路我陪你一起走过
+
+我乐意把自己奉送 做你独家宇宙
+
+抱着你旁若无人尽情舞动
+
+我非常乐意为你做任何任何的事情
+
+你说只要求我每天过得开心
+
+我非常乐意陪你到任何任何地方去
+
+你说今年秋天想去趟南极
+
+我非常乐意看着你的眼睛
+
+落俗而真诚的说出那一句我爱你
+
+
