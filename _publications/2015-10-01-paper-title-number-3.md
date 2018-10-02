@@ -8,7 +8,7 @@ venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: '周美玲. (2015). &quot;许嵩&quot; <i>Journal 1</i>. 1(3).'
 ---
-有何不可-幻听-想象之中-微博控
+有何不可-幻听-想象之中-微博控.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
